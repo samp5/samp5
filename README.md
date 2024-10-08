@@ -1,4 +1,4 @@
-### Hi, I'm Sam Pranies 👋
+### Hi, I'm Sam Praneis 👋
 > I am an undergraduate at UIC interested in systems programming, Linux, and Rust!
 > Check out my research implementation of a spiking neural network [here](https://www.github.com/samp5/ha141)
 
